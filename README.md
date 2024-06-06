@@ -1,3 +1,8 @@
+<div align="center"
+ 
+<img src="https://github.com/cleoguim/Proj_Aplicativo/assets/165972887/65a55292-381d-4a7d-acd3-ad2a439debf8" width="1051px" />
+</div>
+
 # Apresentação do Projeto do Aplicativo +Escola
 Repositário do projeto do aplicativo para a disciplina de Fundamentos de programação aplicada. 
  
@@ -17,7 +22,8 @@ O aplicativo "+ Escola" foi desenvolvido como parte obrigatória da disciplina d
 
 ## logomarca do Aplicativo
 
-<div align ="center">
 
- 
-![MaisEscolaLogoProjeto](https://github.com/cleoguim/Proj_Aplicativo/assets/165972887/65a55292-381d-4a7d-acd3-ad2a439debf8)
+<img src="https://github.com/cleoguim/Proj_Aplicativo/assets/165972887/65a55292-381d-4a7d-acd3-ad2a439debf8" width="588px" height="323px" />
+</div>
+
+
