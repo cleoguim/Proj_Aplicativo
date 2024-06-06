@@ -1,4 +1,4 @@
-<div align="center"
+
  
 <img src="https://github.com/cleoguim/Proj_Aplicativo/assets/165972887/65a55292-381d-4a7d-acd3-ad2a439debf8" width="1051px" />
 </div>
@@ -22,8 +22,15 @@ O aplicativo "+ Escola" foi desenvolvido como parte obrigatória da disciplina d
 
 ## logomarca do Aplicativo
 
+Composição:
+
+A logomarca está construida através de quatro estruturas simples: o símbolo de adição acompanhado da palavra "Educação", que remente ao significado de mais recursos, mais ensino, mais conteúdos, mais informações sobre a educação. Tudo inteligado ao círculo que remente a união entre as pessoas e por fim uma representação simplista de um celular. 
+
+Todo o design foi constituido para ser o mais minimalista possível.
+
 
 <img src="https://github.com/cleoguim/Proj_Aplicativo/assets/165972887/65a55292-381d-4a7d-acd3-ad2a439debf8" width="588px" height="323px" />
 </div>
 
+Com essa imagem da logo propoe transmitir a missão de que através de um aplicativo, na palma da mão, é possível obter informações importantes sobre diversas escolas.
 
