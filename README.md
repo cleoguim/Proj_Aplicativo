@@ -13,3 +13,11 @@ O aplicativo "+ Escola" foi desenvolvido como parte obrigatória da disciplina d
 - Localizar escolas
 - Dados estátisticos das escolas
 - Conhecer os índices educacionais
+
+
+## logomarca do Aplicativo
+
+<div align ="center">
+
+ 
+![MaisEscolaLogoProjeto](https://github.com/cleoguim/Proj_Aplicativo/assets/165972887/65a55292-381d-4a7d-acd3-ad2a439debf8)
